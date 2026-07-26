@@ -10,10 +10,10 @@
 - 🤖 Interested in AI, IoT & Embedded Systems
 - 💻 Exploring Open Source Projects
 - 📫 Reach me: apraneethkumar954@gmail.com
-- ## 🌐 Connect With Me
+-## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/a-praneeth-kumar-784757380
+<a href="https://www.linkedin.com/in/a-praneeth-kumar-784757380?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Vanity URL name
 ">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
