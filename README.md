@@ -26,7 +26,7 @@ Vanity URL name
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,vscode,arduino"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,github,arduino"/>
 </p>
 ## 🚀 Current Projects
 
@@ -34,22 +34,12 @@ Vanity URL name
 - 🌐 Web Development
 - 🧠 AI Learning
 - 📱 Mobile App Development
-- ## 📊 GitHub Stats
-- 
-![](https://github-readme-stats.vercel.app/api?username=praneeth &show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=praneeth &theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneet &layout=compact&theme=tokyonight)
 
 ## 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,windows,figma,postman,mysql"/>
 </p>
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/praneeth/praneeth/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=praneeth &label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
