@@ -13,8 +13,7 @@
 - ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/
-a-praneeth-kumar-784757380
+<a href="https://www.linkedin.com/in/a-praneeth-kumar-784757380
 Vanity URL name
 ">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
