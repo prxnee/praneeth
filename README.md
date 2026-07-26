@@ -34,6 +34,13 @@ Vanity URL name
 - 🌐 Web Development
 - 🧠 AI Learning
 - 📱 Mobile App Development
+- ## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=praneeth &show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=praneeth &theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth &layout=compact&theme=tokyonight&hide_border=true
 
 ## 🛠️ Tools
 
