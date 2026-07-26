@@ -10,6 +10,7 @@
 - 🤖 Interested in AI, IoT & Embedded Systems
 - 💻 Exploring Open Source Projects
 - 📫 Reach me: apraneethkumar954@gmail.com
+- 
 -## 🌐 Connect With Me
 
 <p align="left">
